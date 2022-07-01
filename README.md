@@ -48,3 +48,7 @@ https://circuitpython.org/
 (https://shop.pimoroni.com/products/pico-wireless-pack?variant=32369508581459)
 https://fastapi.tiangolo.com/re
 https://mosquitto.org/blog/2013/01/mosquitto-debian-repository/
+
+
+<img src="images/readme_images.png" alt="Alt text" >
+
