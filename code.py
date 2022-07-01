@@ -14,7 +14,7 @@ while True:
     else:
         data_sensors()
         display_oled()
-        check_waterlevel()
+#         check_waterlevel()
         mqtt_client.loop()
     time.sleep(1)
 

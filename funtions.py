@@ -92,10 +92,11 @@ def data_sensors():
 
 
     # asssign keys and value of the dictionary with the sensor data
-    data["temp1"] = temp_1
-    data["hum1"] = hum_1
-    data["temp2"] = temp_2
-    data["hum2"] = hum_2
+    data["growroom_name"] = "growroom01"
+    data["temperature1"] = temp_1
+    data["humidity1"] = hum_1
+    data["temperature2"] = temp_2
+    data["humidity2"] = hum_2
     data["watertemp"] = water_temp
     data["waterlevel"] = water_level
 

@@ -8,7 +8,7 @@ import json
 from funtions import data, waterpumbs_cycle_on, waterpumbs_cycle_off
 import relays
 
-mqtt_topic = "gardenData"
+mqtt_topic = "growroom01"
 mqtt_recieved = "brokerData"
 
 try:
