@@ -3,4 +3,4 @@ lib/
 System Volume Information/
 .metadata_never_index
 .Trashes
-secrets.py
+**/secrets.py
